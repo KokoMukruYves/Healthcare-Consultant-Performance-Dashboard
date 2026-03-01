@@ -88,16 +88,7 @@ There is no extreme gender imbalance, suggesting inclusive service access. Howev
     o	Some consultants carry heavier time loads than others.
     
     o	Patient volume fluctuates across months.
-
-###  Overall Performance (2011–2014)
-- Total Sales: ≈ $109.85M  
-- Total Profit: ≈ $9.37M  
-- Year-over-Year Growth: ≈ 69.41%  
-
-### Underperforming Regions
-- Central America: -3.88% margin  
-- North America: 1.8% margin  
-- Southern America: -1.92% margin  
+ 
 
 </details>
 
