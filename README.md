@@ -109,31 +109,10 @@ There is no extreme gender imbalance, suggesting inclusive service access. Howev
 
 Based on the insights, the following strategic actions are recommended:
 
-1. **Focus on High-Margin Products**  
-   - Increase marketing and production of Accessories and Mountain Bikes.  
-   - Bundle high-margin products with popular items to maximize profitability.  
-
-2. **Address Underperforming Regions**  
-   - Investigate causes of low profitability in Central, North, and Southern America.  
-   - Implement targeted promotions and localized marketing strategies.  
-   - Optimize distribution channels to reduce costs.  
-
-3. **Product Lifecycle Management**  
-   - Phase out or redesign low-performing products like Road Frames.  
-   - Introduce new product lines to sustain growth and meet forecasted demand.  
-
-4. **Customer Segmentation & Retention**  
-   - Use RFM (Recency, Frequency, Monetary) analysis to identify loyal customers.  
-   - Launch personalized campaigns to improve retention and upselling.  
-
-5. **Seasonal Strategy**  
-   - Prepare inventory and marketing campaigns ahead of Q4 peak sales.  
-   - Diversify product offerings to mitigate seasonal revenue declines.  
 
 </details>
 
 ---
-
 [![Power BI Dashboard](https://img.shields.io/badge/Click_here_to_access_the_interactive_dashboard-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMDFkNTRjM2EtN2YxMy00ZjY4LWJiNTYtMmRmZDJlM2MzNDcxIiwidCI6Ijk0MWJiZjVmLWYyYzAtNDg3NS1hMjRjLTY5MDc4NjVkMjUxYSIsImMiOjh9)
 
 ## 🔗 Connect with me
