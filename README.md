@@ -160,22 +160,22 @@ For consultants with longer average durations:
 
 Using monthly trends:
 
-    o	Increase staff availability during high-demand months
+    o	Increase staff availability during high-demand months,
 
-    o	Adjust shift planning
+    o	Adjust shift planning,
 
-    o	Strengthen appointment management
+    o	Strengthen appointment management.
 
 4. **Develop Age-Specific Service Programs**
 
+Since adults (36–60) dominate:
 
-    o	Since adults (36–60) dominate:
+    o	Create targeted preventive care programs,
 
-    o	Create targeted preventive care programs
+    o	Develop chronic disease management strategies,
 
-    o	Develop chronic disease management strategies
-
-    o	Introduce corporate health partnerships
+    o	Introduce corporate health partnerships.
+    
 
 </details>
 
