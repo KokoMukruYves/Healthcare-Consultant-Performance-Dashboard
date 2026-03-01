@@ -88,7 +88,46 @@ There is no extreme gender imbalance, suggesting inclusive service access. Howev
     o	Some consultants carry heavier time loads than others.
     
     o	Patient volume fluctuates across months.
- 
+
+ 3️⃣ Consultant Performance Insight
+
+    o	Certain consultants handle significantly more patients per day.
+
+    o	Some consultants show high consultation time but lower patient count.
+
+    o	Top consultants manage both: Higher patient volume & Higher total working hours
+
+There is a variation in efficiency and workload distribution among consultants.
+
+This may indicate: Specialization differences, Experience gaps, Scheduling inefficiencies & Unequal patient allocation
+
+4️⃣ Consultation Duration Insight
+
+    o	Average consultation duration is approximately 78 minutes.
+
+    o	Some consultants have significantly longer consultation times.
+
+Longer consultation times may indicate: Complex cases, Inefficient workflow, Administrative delays,
+
+High patient interaction quality (positive interpretation) and Further investigation is required to determine the cause.
+
+
+5️⃣ Monthly Patient Trend Insight
+
+    o	Patient volume fluctuates across months.
+
+    o	Peak months (July & September) show significant increases in patient visits.
+
+Possible seasonal patterns or external factors (e.g., disease outbreaks, policy changes, public health events).
+
+
+6️⃣ Working Time per Week Insight
+
+    o	Average weekly working time is around 487 hours (aggregated).
+
+    o	Some consultants carry heavier time loads than others.
+
+Potential risk of: Burnout, Reduced service quality & Staff dissatisfaction.
 
 </details>
 
