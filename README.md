@@ -64,13 +64,30 @@ By leveraging analytics, this project demonstrates how healthcare institutions c
 <summary id="results--insights"> Results / Insights</summary>
 
 
+1️⃣ **Patient Demographics Insight**
 
-- **Top Revenue Drivers**: Bikes, Clothing, and Accessories (profit margin ~9.06%, ≈ $8.8M)  
-- **Regional Performance**: Pacific region leads with ~32.36% profit margin  
-- **High Margin Products**: Accessories (>50% return rates)  
-- **Most Ordered Product**: Road Bikes  
-- **Most Profitable Product**: Mountain Bikes  
-- **Least Profitable Product**: Road Frame (loss ≈ $173K from 2011–2014)  
+    o	The 36–60 age group (Adults) represents the largest share of patients,
+    
+    o   Young Adults (19–35) follow closely,
+    
+    o   Children (0–18) and Seniors (60+) account for a significantly smaller portion.
+
+The hospital’s services are primarily utilized by the working-age population, indicating demand for general or chronic care services rather than pediatric or geriatric specialization.
+
+
+2️⃣ **Gender Distribution Insight**
+
+    o	Patient distribution across consultants shows relatively balanced male–female proportions.
+    
+    o	Some consultants exhibit slightly higher female patient ratios (Dr Amfo vs Dr Alvin). 
+
+There is no extreme gender imbalance, suggesting inclusive service access. However, minor variations may reflect specialization or patient preference.
+
+    o	Average weekly working time is around 487 hours
+
+    o	Some consultants carry heavier time loads than others.
+    
+    o	Patient volume fluctuates across months.
 
 ###  Overall Performance (2011–2014)
 - Total Sales: ≈ $109.85M  
