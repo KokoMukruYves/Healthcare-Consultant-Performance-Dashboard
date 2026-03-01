@@ -65,37 +65,6 @@ By tracking performance across products, geographies, and customer segments, the
 
 ---
 
-<details>
-<summary id="etl-process"> ETL Process</summary>
-
-
-The analysis followed a structured **ETL pipeline**:
-
-
-### - Data Extraction
-- Connected Power BI to SQL Server Management Studio  
-- Imported relevant tables: `SalesCustomer`, `SalesOrderDetails`, `SalesOrderHeader`, `SalesTerritory`, `ProductCategory`, `ProductSubcategory`, `Product`  
-
-### -  Data Cleaning
-- Handled missing values using complete case analysis  
-- Removed duplicates (e.g., product names)  
-- Corrected inconsistent values (e.g., negative prices/quantities)  
-- Renamed ambiguous columns (e.g., *Group → Sales Region*, *Name → Country*)  
-
-### -  Data Transformation
-- Merged tables (`SalesOrderDetail`, `SalesOrderHeader`, `Product`, `Category`, `Subcategory`, `Customer`)  
-- Created calculated columns (profit, costs, YoY, MoM, RFM metrics)  
-- Built supporting tables (DateTime, Top 6 Products, Bottom 6 Products)  
-
-### -  Data Modeling
-- Established **one-to-many relationships** across schemas  
-- Ensured relational integrity for analysis  
-
-**Schema Diagram:**  
-<img width="695" height="496" alt="Schema" src="https://github.com/user-attachments/assets/cd3c5277-38b2-4be7-8c16-9db87e5e09a9" />
-
-</details>
-
 ---
 <details>
 
@@ -103,7 +72,7 @@ The analysis followed a structured **ETL pipeline**:
 
 
 ###  Sales Performance Dashboard
-<img width="865" height="490" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/9acefa34-adec-4ae1-b9fa-f66959db7206" />
+<img width="879" height="493" alt="Hospital Dashboard ok" src="https://github.com/user-attachments/assets/4d355561-e834-4420-9839-e71d39e1e094" />
 
 ###  Profitability Analysis Dashboard
 <img width="768" height="438" alt="Profitability Dashboard" src="https://github.com/user-attachments/assets/af312a7c-07d6-42e0-9df1-35e71cdfa453" />
