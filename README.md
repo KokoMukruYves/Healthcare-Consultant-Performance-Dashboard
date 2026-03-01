@@ -3,17 +3,8 @@
 <img width="331" height="252" alt="oooook" src="https://github.com/user-attachments/assets/4797229e-2978-4caa-a132-ab2b5373f24e" />
 
 
-
-
-  #                                   ADVENTURE WORKS SALES DASHBOARD
-
-
-
-
 <details>
 <summary id="introduction"> Introduction</summary>
-
-📌 Project Overview
 
 This project presents an interactive Healthcare Consultant Performance Dashboard built in Power BI to analyze patient flow, consultant efficiency, and operational KPIs within a healthcare facility.
 
@@ -42,10 +33,10 @@ This dashboard enables hospital administrators to:
 
 - Monitor operational efficiency,
 
-- Improve resource allocation.
-
-Enhance patient service planning
-By tracking performance across products, geographies, and customer segments, the dashboard provides **actionable insights into business performance**.
+- Improve resource allocation,
+- Enhance patient service planning
+  
+By leveraging analytics, this project demonstrates how healthcare institutions can transition from descriptive reporting to strategic performance monitoring.
 
 </details>
 
