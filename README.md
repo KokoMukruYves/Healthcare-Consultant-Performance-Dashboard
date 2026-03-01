@@ -75,7 +75,8 @@ By tracking performance across products, geographies, and customer segments, the
 <img width="879" height="493" alt="Hospital Dashboard ok" src="https://github.com/user-attachments/assets/4d355561-e834-4420-9839-e71d39e1e094" />
 
 ###  Profitability Analysis Dashboard
-<img width="768" height="438" alt="Profitability Dashboard" src="https://github.com/user-attachments/assets/af312a7c-07d6-42e0-9df1-35e71cdfa453" />
+<img width="878" height="494" alt="image" src="https://github.com/user-attachments/assets/bf34ebae-b56e-44ea-92bb-a233a592fded" />
+
 
 ###  Geographical Analysis Dashboard
 <img width="770" height="436" alt="Geographical Dashboard" src="https://github.com/user-attachments/assets/09d44654-7901-4118-9e0f-1efef6ce1401" />
