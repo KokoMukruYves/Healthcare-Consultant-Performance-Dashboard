@@ -1,6 +1,7 @@
 # Healthcare-Consultant-Performance-Dashboard
 
-<img width="1536" height="1024" alt="Professional Power B" src="https://github.com/user-attachments/assets/e680ee0d-c6fe-4f94-8c48-94450c6408ca" />
+<img width="331" height="252" alt="oooook" src="https://github.com/user-attachments/assets/4797229e-2978-4caa-a132-ab2b5373f24e" />
+
 
 
 📌 Project Overview
