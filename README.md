@@ -10,7 +10,6 @@ This project presents an interactive Healthcare Consultant Performance Dashboard
 
 The dashboard transforms raw healthcare data into actionable insights that support data-driven decision-making in hospital operations and performance management.
 
-🎯 Business Objectives
 
 The dashboard answers key operational questions:
 
