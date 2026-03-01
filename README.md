@@ -48,10 +48,10 @@ By leveraging analytics, this project demonstrates how healthcare institutions c
 
 <summary id="dashboard-overview">Dashboard Overview</summary>
 
-###  ConsultCare Analytics
+###  ConsultCare Analytics Dashboard
 <img width="881" height="494" alt="image" src="https://github.com/user-attachments/assets/dadd38d4-5522-498a-862a-c546b010cee1" />
 
-###  Consultant Performance
+###  Consultant Performance & Patient Analytics Dashboard
 <img width="887" height="500" alt="image" src="https://github.com/user-attachments/assets/7fd1998b-2406-4abd-857c-a0043a4d9202" />
 
 
