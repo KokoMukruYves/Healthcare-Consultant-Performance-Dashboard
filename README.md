@@ -120,9 +120,3 @@ For questions or collaborations, feel free to reach out!
 
 **© 2026 Koko Mukuru Yves**. All rights reserved
 
-
-
-
-
-
-How does performance vary across months?
