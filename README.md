@@ -83,14 +83,10 @@ The hospital’s services are primarily utilized by the working-age population, 
 
 There is no extreme gender imbalance, suggesting inclusive service access. However, minor variations may reflect specialization or patient preference.
 
-    o	Average weekly working time is around 487 hours
 
-    o	Some consultants carry heavier time loads than others.
-    
-    o	Patient volume fluctuates across months.
 
- 3️⃣ Consultant Performance Insight
-
+ 3️⃣ **Consultant Performance Insight**
+ 
     o	Certain consultants handle significantly more patients per day.
 
     o	Some consultants show high consultation time but lower patient count.
@@ -101,7 +97,7 @@ There is a variation in efficiency and workload distribution among consultants.
 
 This may indicate: Specialization differences, Experience gaps, Scheduling inefficiencies & Unequal patient allocation
 
-4️⃣ Consultation Duration Insight
+4️⃣ **Consultation Duration Insight**
 
     o	Average consultation duration is approximately 78 minutes.
 
@@ -112,7 +108,7 @@ Longer consultation times may indicate: Complex cases, Inefficient workflow, Adm
 High patient interaction quality (positive interpretation) and Further investigation is required to determine the cause.
 
 
-5️⃣ Monthly Patient Trend Insight
+5️⃣ **Monthly Patient Trend Insight**
 
     o	Patient volume fluctuates across months.
 
@@ -121,13 +117,14 @@ High patient interaction quality (positive interpretation) and Further investiga
 Possible seasonal patterns or external factors (e.g., disease outbreaks, policy changes, public health events).
 
 
-6️⃣ Working Time per Week Insight
+6️⃣ **Working Time per Week Insight**
 
     o	Average weekly working time is around 487 hours (aggregated).
 
     o	Some consultants carry heavier time loads than others.
 
 Potential risk of: Burnout, Reduced service quality & Staff dissatisfaction.
+
 
 </details>
 
@@ -139,6 +136,46 @@ Potential risk of: Burnout, Reduced service quality & Staff dissatisfaction.
 
 Based on the insights, the following strategic actions are recommended:
 
+1. **Optimize Consultant Workload Allocation**
+
+Use patient volume data to:
+
+    o	Balance daily patient distribution,
+   
+    o	Avoid overloading top-performing consultants,
+
+    o	Improve fairness in scheduling.
+
+2. **Investigate High Consultation Duration Cases**
+
+For consultants with longer average durations:
+
+    o	Analyze case complexity,
+
+    o	Review workflow processes,
+
+    o	Identify administrative bottlenecks.
+
+3. **Prepare for Peak Months**
+
+Using monthly trends:
+
+    o	Increase staff availability during high-demand months
+
+    o	Adjust shift planning
+
+    o	Strengthen appointment management
+
+4. **Develop Age-Specific Service Programs**
+
+
+    o	Since adults (36–60) dominate:
+
+    o	Create targeted preventive care programs
+
+    o	Develop chronic disease management strategies
+
+    o	Introduce corporate health partnerships
 
 </details>
 
