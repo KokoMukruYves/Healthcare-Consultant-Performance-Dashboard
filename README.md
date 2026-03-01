@@ -138,7 +138,7 @@ Based on the insights, the following strategic actions are recommended:
 
 1. **Optimize Consultant Workload Allocation**
 
-Use patient volume data to:
+ Use patient volume data to:
 
     o	Balance daily patient distribution,
    
@@ -148,7 +148,7 @@ Use patient volume data to:
 
 2. **Investigate High Consultation Duration Cases**
 
-For consultants with longer average durations:
+ For consultants with longer average durations:
 
     o	Analyze case complexity,
 
@@ -158,7 +158,7 @@ For consultants with longer average durations:
 
 3. **Prepare for Peak Months**
 
-Using monthly trends:
+ Using monthly trends:
 
     o	Increase staff availability during high-demand months,
 
@@ -168,7 +168,7 @@ Using monthly trends:
 
 4. **Develop Age-Specific Service Programs**
 
-Since adults (36–60) dominate:
+ Since adults (36–60) dominate:
 
     o	Create targeted preventive care programs,
 
