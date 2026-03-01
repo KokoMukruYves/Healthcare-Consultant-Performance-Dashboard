@@ -14,28 +14,31 @@ The dashboard transforms raw healthcare data into actionable insights that suppo
 
 The dashboard answers key operational questions:
 
-- How many patients are served over time?
+    o	How many patients are served over time?
 
-- Which consultants handle the highest patient volumes?
 
-- What is the average consultation duration?
+    o	Which consultants handle the highest patient volumes?
 
-- How efficient are consultants in terms of working time?
 
-- What is the patient distribution by gender and age group?
+    o	What is the average consultation duration?
 
+    o	How efficient are consultants in terms of working time?
+
+
+    o	What is the patient distribution by gender and age group?
 
 This dashboard enables hospital administrators to:
 
-- Identify high-performing consultants,
-
-- Detect workload imbalances,
-
-- Monitor operational efficiency,
-
-- Improve resource allocation,
-- Enhance patient service planning
-  
+    o	Identify high-performing consultants,
+    
+    o	Detect workload imbalances,
+    
+    o	Monitor operational efficiency,
+    
+    o	Improve resource allocation,
+    
+    o	Enhance patient service planning.
+     
 By leveraging analytics, this project demonstrates how healthcare institutions can transition from descriptive reporting to strategic performance monitoring.
 
 </details>
