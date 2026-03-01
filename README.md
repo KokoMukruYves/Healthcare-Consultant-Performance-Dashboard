@@ -4,6 +4,15 @@
 
 
 
+
+  #                                   ADVENTURE WORKS SALES DASHBOARD
+
+
+
+
+<details>
+<summary id="introduction"> Introduction</summary>
+
 📌 Project Overview
 
 This project presents an interactive Healthcare Consultant Performance Dashboard built in Power BI to analyze patient flow, consultant efficiency, and operational KPIs within a healthcare facility.
@@ -14,73 +23,45 @@ The dashboard transforms raw healthcare data into actionable insights that suppo
 
 The dashboard answers key operational questions:
 
-How many patients are served over time?
+- How many patients are served over time?
 
-Which consultants handle the highest patient volumes?
+- Which consultants handle the highest patient volumes?
 
-What is the average consultation duration?
+- What is the average consultation duration?
 
-How efficient are consultants in terms of working time?
+- How efficient are consultants in terms of working time?
 
-What is the patient distribution by gender and age group?
-
-
-
-  #                                   ADVENTURE WORKS SALES DASHBOARD
+- What is the patient distribution by gender and age group?
 
 
+This dashboard enables hospital administrators to:
 
+- Identify high-performing consultants,
 
- ## Product Lifecycle Profitability Analysis
+- Detect workload imbalances,
 
+- Monitor operational efficiency,
 
+- Improve resource allocation.
 
-<details>
-<summary id="introduction"> Introduction</summary>
-
-
-
-Adventure Works is a global company that manufactures and retails bikes and related components. The company sells its products in North America, Europe, and Oceania.  
-
-This project presents an **interactive Power BI dashboard** analyzing Adventure’s sales performance. It provides **real-time insights for strategic decision-making**, tracking profitability across product categories and customer segments over time.  
-
-The analysis is based on the **Adventure Works 2022 database**, combining sales data from 2011 to 2014 across multiple schemas:  
-- **Sales**: Orders, Invoices, Customers, Sales Territory  
-- **Production**: Product Management  
-
-Key business questions addressed:  
-- Which product generates the most revenue?  
-- How does sales growth vary over time?  
-- What are the forecasted trends for future demand and revenue?  
-
-
-This report dives deep into Adventure’s sales performance, helping decision-makers:  
-- Identify growth opportunities  
-- Manage seasonal revenue declines  
-- Understand customer spending behavior  
-- Personalize marketing and retention strategies  
-
+Enhance patient service planning
 By tracking performance across products, geographies, and customer segments, the dashboard provides **actionable insights into business performance**.
 
 </details>
 
 ---
 
----
 <details>
 
 <summary id="dashboard-overview">Dashboard Overview</summary>
 
+###  ConsultCare Analytics
+<img width="881" height="494" alt="image" src="https://github.com/user-attachments/assets/dadd38d4-5522-498a-862a-c546b010cee1" />
 
-###  Sales Performance Dashboard
-<img width="879" height="493" alt="Hospital Dashboard ok" src="https://github.com/user-attachments/assets/4d355561-e834-4420-9839-e71d39e1e094" />
-
-###  Profitability Analysis Dashboard
-<img width="878" height="494" alt="image" src="https://github.com/user-attachments/assets/bf34ebae-b56e-44ea-92bb-a233a592fded" />
+###  Consultant Performance
+<img width="887" height="500" alt="image" src="https://github.com/user-attachments/assets/7fd1998b-2406-4abd-857c-a0043a4d9202" />
 
 
-###  Geographical Analysis Dashboard
-<img width="770" height="436" alt="Geographical Dashboard" src="https://github.com/user-attachments/assets/09d44654-7901-4118-9e0f-1efef6ce1401" />
 
 </details>
 
