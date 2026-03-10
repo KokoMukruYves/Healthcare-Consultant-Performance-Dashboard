@@ -1,7 +1,9 @@
 # Healthcare-Consultant-Performance-Dashboard
 
-<img width="331" height="252" alt="oooook" src="https://github.com/user-attachments/assets/4797229e-2978-4caa-a132-ab2b5373f24e" />
 
+<img width="136" height="102" alt="Medical team meeting" src="https://github.com/user-attachments/assets/622399d1-b9b0-4537-bd48-bd837918364a" />
+
+<img width="136" height="102" alt="Hospital patient car" src="https://github.com/user-attachments/assets/4e2c9675-7228-4b62-86bf-e18bfe442a3f" />
 
 <details>
 <summary id="introduction"> Introduction</summary>
