@@ -5,6 +5,9 @@
 
 <img width="206" height="192" alt="Hospital patient car" src="https://github.com/user-attachments/assets/4e2c9675-7228-4b62-86bf-e18bfe442a3f" />
 
+<img width="206" height="192" alt="Consultation médical" src="https://github.com/user-attachments/assets/bdf609a1-b5b2-4a1f-8123-87fa8d96d1e9" />
+
+
 <details>
 <summary id="introduction"> Introduction</summary>
 
