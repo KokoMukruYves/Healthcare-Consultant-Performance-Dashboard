@@ -3,8 +3,6 @@
 <img width="206" height="192" alt="Consultation médicalj" src="https://github.com/user-attachments/assets/b25b637c-3420-4ef3-b9bf-fea01c7e03fc" />
 
 
-<img width="206" height="192" alt="Medical team meeting" src="https://github.com/user-attachments/assets/622399d1-b9b0-4537-bd48-bd837918364a" />
-
 
 <img width="206" height="192" alt="Consultation médical" src="https://github.com/user-attachments/assets/bdf609a1-b5b2-4a1f-8123-87fa8d96d1e9" />
 
@@ -13,6 +11,7 @@
 <img width="206" height="192" alt="Hospital patient car" src="https://github.com/user-attachments/assets/4e2c9675-7228-4b62-86bf-e18bfe442a3f" />
 
 
+<img width="206" height="192" alt="Medical team meeting" src="https://github.com/user-attachments/assets/622399d1-b9b0-4537-bd48-bd837918364a" />
 
 
 <details>
